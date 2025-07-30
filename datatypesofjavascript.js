@@ -27,5 +27,5 @@ console.log(typeof bignum);//will return bigint
 console.log(typeof outsidetemp);//will return object because null datatype returned is object
 console.log(typeof id);//will return symbol
 console.log(typeof myfunction);//will return function
-
+console.log(+true)//will return 1
 
